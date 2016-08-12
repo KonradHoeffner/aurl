@@ -21,5 +21,8 @@ If you want to include the 1000 most popular prefixes instead, use `\usepackage[
 	 \aurl{rdfs}{label}
 	 \aurl{owl}{class}
 	 \daurl{bbc}{http://bbc.com/}
-	\aurl{bbc}{news}
+	 \aurl{bbc}{news}
 	\end{document}
+
+# License
+This is completely free, do whatever you want ([CC0 license](http://creativecommons.org/publicdomain/zero/1.0/)).
