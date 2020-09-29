@@ -9,7 +9,7 @@ The aurl package introduces `\aurl{prefix}{suffix}` and includes the 100 most po
 If you want to include the 1000 most popular prefixes instead, use `\usepackage[1000]{aurl}`.
 
 # Usage
-1. copy [aurl.sty](https://raw.githubusercontent.com/KonradHoeffner/latex/master/aurl/aurl.sty) to your working directory
+1. Either use texlive or copy [aurl.sty](https://raw.githubusercontent.com/KonradHoeffner/aurl/master/aurl.sty) to your working directory
 2. add `\usepackage{aurl}` to your preamble
 4. (optional)  define non-default prefixes using `\daurl{prefix}{prefix expansion}`
 3. add your AURLs with `\aurl{prefix}{suffix}`
